@@ -1,0 +1,16 @@
+.Logo{
+  text-decoration: none;
+  font-size: 30px;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+}
+
+.Favoritos{
+  cursor: pointer;
+  background-color: aliceblue;
+  padding: 5px 14px;
+  text-decoration: none;
+  color: black;
+  border-radius: 4px;
+}
